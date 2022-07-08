@@ -1,0 +1,5 @@
+hub align
+shortLabel TdaTrosaAlign
+longLabel Alignment bwtween Tdalaica and Trosa
+genomesFile genomes.txt
+email jinling@ioz.ac.cn
